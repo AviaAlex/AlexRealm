@@ -1,2 +1,3 @@
 # AlexRealm
 ! THIS IS A VIRUS ! Inspired by Endermanch.
+! DO NOT REDISTRIBUTE MALICIOUSLY, IT IS A VIOLATION OF THE LAW !
