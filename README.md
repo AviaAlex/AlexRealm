@@ -19,3 +19,4 @@ I am not trying to be bossy, I'm trying to keep you out of jail.
 # Information
 This program was entirely written in C# using Visual Studio and Visual Studio Code.
 Depending on when you execute it, you may get a worse version of the payload doing more damage than usual.
+Please note: This application does not work on operating systems older than Windows 10.
