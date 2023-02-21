@@ -17,5 +17,5 @@ Please note: Rule 3 does not apply if you are not redistributing the edited soft
 I am not trying to be bossy, I'm trying to keep you out of jail.
 
 # Information
-This proram was entirely written in C# using Visual Studio and Visual Studio Code.
+This program was entirely written in C# using Visual Studio and Visual Studio Code.
 Depending on when you execute it, you may get a worse version of the payload doing more damage than usual.
