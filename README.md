@@ -3,7 +3,7 @@
 
 # Terms and Conditions
 
-AlexRalm will give you a warning prior to executing it. The warning reads, "This virus is no joke, still execute it?"
+AlexRealm will give you a warning prior to executing it. The warning reads, "This virus is no joke, still execute it?"
 This application was meant only for testing and educational purposes and not for malicious purposes.
 It is highly recommended you run this on a virtual machines or have a system restore point because this application does make changes to your computer.
 (Mostly in the registry.)
