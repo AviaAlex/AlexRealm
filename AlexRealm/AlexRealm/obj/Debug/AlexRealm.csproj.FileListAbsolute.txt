@@ -1,0 +1,10 @@
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\bin\Debug\AlexRealm.exe.config
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\bin\Debug\AlexRealm.exe
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\bin\Debug\AlexRealm.pdb
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.csproj.CoreCompileInputs.cache
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.exe
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.pdb
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.csproj.GenerateResource.cache
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.Properties.Resources.resources
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.csproj.AssemblyReference.cache
+C:\Users\flaxa\source\repos\AlexRealm\AlexRealm\obj\Debug\AlexRealm.csproj.SuggestedBindingRedirects.cache
