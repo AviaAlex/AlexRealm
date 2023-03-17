@@ -27,5 +27,4 @@ April 26th: Unable to open any apps.<br>
 October 27th: MBR (Boot Sector) erased.<br>
 
 # Changelog and Upcoming Updates
-V20 (Released) Changed a few things relating to design and boot sector destruction.<br>
-V21 (Upcoming) Changing the program startup application from the Shell key to the UserInit key for more secretive injection and execution.<br>
+V21 (Released) Added back extracting embedded resources.<br>
